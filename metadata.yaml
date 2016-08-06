@@ -1,0 +1,74 @@
+_repo: Incidents-in-the-Life-of-a-Slave-GirlWritten-by-Herself_11030
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jacobs, Harriet A. (Harriet Ann)
+    aliases:
+    - Jacobs, Harriet Brent
+    - Brent, Linda
+    birthdate: 1813
+    deathdate: 1897
+    gutenberg_agent_id: '3801'
+    url: http://www.gutenberg.org/2009/agents/3801
+    wikipedia: http://en.wikipedia.org/wiki/Harriet_Ann_Jacobs
+  editor:
+    agent_name: Child, Lydia Maria
+    aliases:
+    - Francis, Lydia Maria
+    - Child, L. Maria (Lydia Maria)
+    - Child, Lydia Maria Francis
+    birthdate: 1802
+    deathdate: 1880
+    gutenberg_agent_id: '2732'
+    url: http://www.gutenberg.org/2009/agents/2732
+    wikipedia: http://en.wikipedia.org/wiki/Lydia_Child
+description: "Incidents in the Life of a Slave Girl is an autobiography by a young\
+  \ mother and fugitive slave published in 1861 by L. Maria Child, who edited the\
+  \ book for its author, Harriet Ann Jacobs. Jacobs used the pseudonym Linda Brent.\
+  \ The book documents Jacobs' life as a slave and how she gained freedom for herself\
+  \ and for her children. Jacobs contributed to the genre of slave narrative by using\
+  \ the techniques of sentimental novels \"to address race and gender issues.\" She\
+  \ explores the struggles and sexual abuse that female slaves faced on plantations\
+  \ as well as their efforts to practice motherhood and protect their children when\
+  \ their children might be sold away.\nJacobs' book is addressed to white women in\
+  \ the North who do not fully comprehend the evils of slavery. She makes direct appeals\
+  \ to their humanity to expand their knowledge and influence their thoughts about\
+  \ slavery as an institution.\nJacobs began composing Incidents in the Life of a\
+  \ Slave Girl after her escape to New York, while living and working at Idlewild,\
+  \ the Hudson River home of writer and publisher Nathaniel Parker Willis. Portions\
+  \ of her journals were published in serial form in the New-York Tribune, owned and\
+  \ edited by Horace Greeley. Jacobs' reports of sexual abuse were deemed too shocking\
+  \ for the average newspaper reader of the day, and publication ceased before the\
+  \ completion of the narrative.\nBoston publishing house Phillips and Samson agreed\
+  \ to print the work in book form if Jacobs could convince Willis or abolitionist\
+  \ author Harriet Beecher Stowe to provide a preface. She refused to ask Willis for\
+  \ help and Stowe never responded to her request. The Phillips and Samson company\
+  \ closed. Jacobs eventually signed an agreement with the Thayer & Eldridge publishing\
+  \ house, and they requested a preface by abolitionist Lydia Maria Child, who agreed.\
+  \ Child also edited the book, and the company introduced her to Jacobs. The two\
+  \ women remained in contact for much of their remaining lives. Thayer & Eldridge,\
+  \ however, declared bankruptcy before the narrative could be published.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_bookshelf: African American Writers
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11030'
+  wikidata: Q6014663
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Slaves -- United States -- Biography'
+- !lcsh 'Jacobs, Harriet A. (Harriet Ann), 1813-1897'
+- !lcsh 'Slaves -- United States -- Social conditions'
+- !lcsh 'Women slaves -- United States -- Biography'
+- GITenberg
+title: Incidents in the Life of a Slave Girl, Written by Herself
+url: http://www.gutenberg.org/ebooks/11030
+wikipedia:
+- https://fr.wikipedia.org/wiki/Incidents_in_the_Life_of_a_Slave_Girl
+- https://de.wikipedia.org/wiki/Erlebnisse_aus_dem_Leben_eines_Sklavenm%C3%A4dchens
+- https://en.wikipedia.org/wiki/Incidents_in_the_Life_of_a_Slave_Girl
